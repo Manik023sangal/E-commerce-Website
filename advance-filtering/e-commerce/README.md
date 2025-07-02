@@ -1,12 +1,23 @@
-# React + Vite
+🛍️ E-Commerce Website
+This project is a fully functional E-commerce website built using React, showcasing products with dynamic filtering, search, category, and price filtering functionalities.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+1. Display of product cards with images, prices, ratings, and details.
+2. Search functionality to filter products by title.
+3. Category, color, and company filtering using sidebar and buttons.
+4. Responsive design for all screen sizes.
+5. Clean React component structure for easy maintenance.
+6. Built using Vite for fast development and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+1. React for UI development.
+2. Vite for fast React app setup and bundling.
+3. Tailwind CSS for styling.
+4. React Icons for star ratings and UI icons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💡 What I Learned
+1. Building a real-world e-commerce filtering system in React.
+2. Managing state using React hooks (useState).
+3. Dynamic filtering and mapping data to reusable components.
+4. Responsive layout using Tailwind CSS.
+5. Clean Git and GitHub project management.
